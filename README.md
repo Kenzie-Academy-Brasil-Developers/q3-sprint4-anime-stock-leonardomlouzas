@@ -11,4 +11,4 @@ Small Flask API for a basic CRUD in PostgreSQL.
 | update_anime    | PATCH   | /animes/<anime_id> |
 | remove_anime    | DELETE  | /posts/<anime_id>  |
 
-**This project was made for the Kenzie Academy Brasil bootcamp.
+**This project was made for the Kenzie Academy Brasil bootcamp.**
